@@ -10,9 +10,7 @@ int main()
 
     cout << "Nhap so thu hai: ";
     cin >> n2;
-    cout
-            cout
-        << n1 << " x " << n2 << " = " << n1 * n2;
+    cout << n1 << " x " << n2 << " = " << n1 * n2;
 
     return 0;
 }
